@@ -1,0 +1,11 @@
+D:\Demo\NETframwork\BT2\BT2\bin\Debug\BT2.exe.config
+D:\Demo\NETframwork\BT2\BT2\bin\Debug\BT2.exe
+D:\Demo\NETframwork\BT2\BT2\bin\Debug\BT2.pdb
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.Form1.resources
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.Properties.Resources.resources
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.exe
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.pdb
+D:\Demo\NETframwork\BT2\BT2\obj\Debug\BT2.exe.config
