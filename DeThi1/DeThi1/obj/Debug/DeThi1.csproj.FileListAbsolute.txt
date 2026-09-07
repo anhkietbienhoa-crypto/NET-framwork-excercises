@@ -1,0 +1,10 @@
+D:\Demo\NETframwork\DeThi1\DeThi1\bin\Debug\DeThi1.exe.config
+D:\Demo\NETframwork\DeThi1\DeThi1\bin\Debug\DeThi1.exe
+D:\Demo\NETframwork\DeThi1\DeThi1\bin\Debug\DeThi1.pdb
+D:\Demo\NETframwork\DeThi1\DeThi1\obj\Debug\DeThi1.csproj.AssemblyReference.cache
+D:\Demo\NETframwork\DeThi1\DeThi1\obj\Debug\DeThi1.Form1.resources
+D:\Demo\NETframwork\DeThi1\DeThi1\obj\Debug\DeThi1.Properties.Resources.resources
+D:\Demo\NETframwork\DeThi1\DeThi1\obj\Debug\DeThi1.csproj.GenerateResource.cache
+D:\Demo\NETframwork\DeThi1\DeThi1\obj\Debug\DeThi1.csproj.CoreCompileInputs.cache
+D:\Demo\NETframwork\DeThi1\DeThi1\obj\Debug\DeThi1.exe
+D:\Demo\NETframwork\DeThi1\DeThi1\obj\Debug\DeThi1.pdb
