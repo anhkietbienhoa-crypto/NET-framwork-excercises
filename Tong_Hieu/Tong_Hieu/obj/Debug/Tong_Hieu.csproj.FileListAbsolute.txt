@@ -1,0 +1,11 @@
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\bin\Debug\Tong_Hieu.exe.config
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\bin\Debug\Tong_Hieu.exe
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\bin\Debug\Tong_Hieu.pdb
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.csproj.AssemblyReference.cache
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.Form1.resources
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.Properties.Resources.resources
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.csproj.GenerateResource.cache
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.csproj.CoreCompileInputs.cache
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.exe
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.pdb
+D:\Demo\NETframwork\Tong_Hieu\Tong_Hieu\obj\Debug\Tong_Hieu.exe.config

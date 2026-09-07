@@ -1,0 +1,16 @@
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics g = e.Graphics;
+            g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
+
+            Pen pen = new Pen(Color.Blue, 2);
+            g.DrawRectangle(pen, 50, 50, 150, 80);
+            g.DrawEllipse(pen, 50, 150, 100, 100);
+            Point p1 = new Point(250, 200);
+            Point p2 = new Point(350, 80);
+            Point p3 = new Point(450, 200);
+            g.DrawPolygon(pen, new Point[] { p1, p2, p3 });
+
+            Point[] tamGiac = {new Point(300, 200),new Point(350, 100),new Point(400, 200)
+};            g.DrawPolygon(Pens.Red, tamGiac);
+        }
