@@ -1,0 +1,11 @@
+D:\Demo\NETframwork\11-11\11-11\bin\Debug\11-11.exe.config
+D:\Demo\NETframwork\11-11\11-11\bin\Debug\11-11.exe
+D:\Demo\NETframwork\11-11\11-11\bin\Debug\11-11.pdb
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\11-11.csproj.AssemblyReference.cache
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\_11_11.Properties.Resources.resources
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\11-11.csproj.GenerateResource.cache
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\11-11.csproj.CoreCompileInputs.cache
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\11-11.exe
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\11-11.pdb
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\11-11.exe.config
+D:\Demo\NETframwork\11-11\11-11\obj\Debug\_11_11.mainForm.resources
