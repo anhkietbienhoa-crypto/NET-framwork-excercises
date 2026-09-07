@@ -1,0 +1,10 @@
+D:\Demo\NETframwork\ballo\ballo\bin\Debug\ballo.exe.config
+D:\Demo\NETframwork\ballo\ballo\bin\Debug\ballo.exe
+D:\Demo\NETframwork\ballo\ballo\bin\Debug\ballo.pdb
+D:\Demo\NETframwork\ballo\ballo\obj\Debug\ballo.csproj.AssemblyReference.cache
+D:\Demo\NETframwork\ballo\ballo\obj\Debug\ballo.Form1.resources
+D:\Demo\NETframwork\ballo\ballo\obj\Debug\ballo.Properties.Resources.resources
+D:\Demo\NETframwork\ballo\ballo\obj\Debug\ballo.csproj.GenerateResource.cache
+D:\Demo\NETframwork\ballo\ballo\obj\Debug\ballo.csproj.CoreCompileInputs.cache
+D:\Demo\NETframwork\ballo\ballo\obj\Debug\ballo.exe
+D:\Demo\NETframwork\ballo\ballo\obj\Debug\ballo.pdb

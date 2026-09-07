@@ -1,0 +1,17 @@
+D:\Demo\NETframwork\25-11\25-11\bin\Debug\net10.0-windows\25-11.exe
+D:\Demo\NETframwork\25-11\25-11\bin\Debug\net10.0-windows\25-11.deps.json
+D:\Demo\NETframwork\25-11\25-11\bin\Debug\net10.0-windows\25-11.runtimeconfig.json
+D:\Demo\NETframwork\25-11\25-11\bin\Debug\net10.0-windows\25-11.dll
+D:\Demo\NETframwork\25-11\25-11\bin\Debug\net10.0-windows\25-11.pdb
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\_25_11.Form1.resources
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\_25_11.Properties.Resources.resources
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.csproj.GenerateResource.cache
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.AssemblyInfoInputs.cache
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.AssemblyInfo.cs
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.csproj.CoreCompileInputs.cache
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.dll
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\refint\25-11.dll
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.pdb
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\25-11.genruntimeconfig.cache
+D:\Demo\NETframwork\25-11\25-11\obj\Debug\net10.0-windows\ref\25-11.dll
